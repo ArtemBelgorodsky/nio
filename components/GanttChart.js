@@ -6,7 +6,7 @@ function GanttChart({ tasks }) {
             <table>
                 <thead>
                 <tr>
-                    <th>Задача</th>
+                    <th>Задача </th>
                     <th>Исследователь</th>
                     <th>Процесс выполнения</th>
                 </tr>
